@@ -1,4 +1,6 @@
-<?php  
+<?php
+
+# php 快速入门
 echo "hello world"
 
 # 单行注释
